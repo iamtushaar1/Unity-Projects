@@ -1,0 +1,12 @@
+# Portal 3
+## Controls
+- WASD (Forward, Left, Back, Right respectively) or Arrow Keys (Forward, Left, Back, Right)
+- Use mouse to look around
+
+## Goal
+- Pass all of the levels (depending on difficulty)
+- Pass each level by getting to the green pad through the use of portals and physics
+
+## Rules
+- You must use your two portals to get to the necessary places within the level as physics allows.
+- The dark walls are disabled to shoot portals onto
